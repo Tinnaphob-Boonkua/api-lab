@@ -4,6 +4,9 @@
 - Step 0.3, status code of the request without a token: 401
 - Step 0.4, the name of your pizza: The Scary Marinara
 - Step 0.12, results of the three runs without a session (optional):
+  - Run 1: FAILED
+  - Run 2: PASSED
+  - Run 3: FAILED
 - Step 0.16, blocks of "how many of the three tools are excluded":
 ## Defect report
 - Title:
