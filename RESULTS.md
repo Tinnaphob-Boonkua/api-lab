@@ -26,6 +26,9 @@
 - Severity: Medium. The API fails to handle an invalid request gracefully and provides no useful error message to the client.
 ## Part A
 - Step A4, status codes when the other user reads, changes and deletes:
+  - GET (Read): 404
+  - PUT (Update): 400
+  - DELETE: 400
 ## Part B
 1.
 2.
